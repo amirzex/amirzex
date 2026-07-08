@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Amirhossein Nasrollahpour, a front-end developer passionate about crafting user-friendly web apps with JavaScript, React, Next.js, and TypeScript. Currently building a housing project with Next.js and TypeScript, I'm always exploring ways to create scalable, high-performance applications. My goal is to grow as a developer, contribute to meaningful projects, and eventually work with big tech companies where I can make a real impact.
+Hi, I'm Amirhossein Nasrollahpour — a front-end developer passionate about building clean, high-performance web apps with JavaScript, React, Next.js, and TypeScript. I thrive on solving complex API integration challenges and designing smooth data flows that make front-end systems feel effortless. I actively use AI tools to accelerate development, improve code quality, and explore smarter solutions—without losing the human touch. Currently expanding my stack into back-end development with Node.js and Express to become a more full-circle engineer. My goal is to grow, contribute to impactful projects, and eventually work with big tech teams where I can make a real difference. Let's build something meaningful. 
 
 
 ## 🌐 Socials:
