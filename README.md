@@ -15,6 +15,8 @@ Hi, I'm Amirhossein Nasrollahpour — a front-end developer passionate about bui
 ---
 [![](https://komarev.com/ghpvc/?username=amirzex&icon=0&color=0)](https://visitcount.itsvg.in)
 
+react project:
+
 link demo:https://filmzex.vercel.app/
 
 
@@ -22,5 +24,17 @@ link demo:https://filmzex.vercel.app/
 
 
 link repo:https://github.com/amirzex/filmzex
+
+
+next project:
+
+link demo:https://houses-lovat.vercel.app/
+
+
+
+
+
+
+link repo:https://github.com/amirzex/houses
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
